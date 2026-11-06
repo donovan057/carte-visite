@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rinquebach;Donovan;;;
+FN:Donovan Rinquebach
+TITLE:Développeur Web Fullstack
+EMAIL;TYPE=WORK,INTERNET:donovanrinquebach25@icloud.com
+TEL;TYPE=CELL:06 51 36 53 23
+URL:https://ton-portfolio.com
+URL:https://github.com/donovan057
+URL:https://linkedin.com/in/donovan-Rinquebach
+ADR;TYPE=WORK:;;;Woippy;;;France
+PHOTO;VALUE=URI:https://github.com/donovan057.png
+END:VCARD

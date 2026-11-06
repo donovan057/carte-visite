@@ -1,0 +1,5 @@
+/bio.vcf
+  Content-Type: text/vcard; charset=utf-8
+
+/bio.json
+  Content-Type: application/json; charset=utf-8
